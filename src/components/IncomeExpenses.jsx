@@ -19,6 +19,7 @@ const IncomeExpenses = () => {
       expense += amount;
     }
   }
+  // helo
 
   income = income.toFixed(2);
   expense = (-expense).toFixed(2);
